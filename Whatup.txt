@@ -3,3 +3,5 @@
 2. Chat screen development
 
 3. Image upload
+
+4. Last seen code
