@@ -1,0 +1,5 @@
+1. Profile Created
+
+2. Chat screen development
+
+3. Image upload
