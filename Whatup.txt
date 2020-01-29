@@ -5,3 +5,7 @@
 3. Image upload
 
 4. Last seen code
+
+5. Adding the audio call feature
+
+6. Add the video call feature
